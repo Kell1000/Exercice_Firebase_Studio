@@ -1,3 +1,136 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A stunning landscape of mountains and a lake, representing adventure and travel.",
+      "imageUrl": "https://images.unsplash.com/photo-1645705250941-0af036402d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzU5MDIxMDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel landscape"
+    },
+    {
+      "id": "dest-kyoto",
+      "description": "Traditional temples in Kyoto, Japan.",
+      "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxqYXBhbiUyMHRlbXBsZXxlbnwwfHx8fDE3NTkxMjE3ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "japan temple"
+    },
+    {
+      "id": "dest-santorini",
+      "description": "White buildings with blue domes in Santorini, Greece.",
+      "imageUrl": "https://images.unsplash.com/photo-1701503873239-d94b133c5a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmVlY2UlMjBzYW50b3Jpbml8ZW58MHx8fHwxNzU5MDY4OTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "greece santorini"
+    },
+    {
+      "id": "dest-patagonia",
+      "description": "Jagged mountain peaks in Patagonia, Chile.",
+      "imageUrl": "https://images.unsplash.com/photo-1684419317250-795cf91929a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYXRhZ29uaWElMjBtb3VudGFpbnN8ZW58MHx8fHwxNzU5MDM1ODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "patagonia mountains"
+    },
+    {
+      "id": "dest-bali",
+      "description": "Lush rice terraces in Bali, Indonesia.",
+      "imageUrl": "https://images.unsplash.com/photo-1536146180203-c3b97ff07a2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYWxpJTIwcmljZXRlcnJhY2V8ZW58MHx8fHwxNzU5MTM4NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bali riceterrace"
+    },
+    {
+      "id": "dest-rome",
+      "description": "The Colosseum in Rome, Italy.",
+      "imageUrl": "https://images.unsplash.com/photo-1663143050642-69240b347b2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyb21lJTIwY29sb3NzZXVtfGVufDB8fHx8MTc1OTA0ODU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rome colosseum"
+    },
+    {
+      "id": "dest-iceland",
+      "description": "A powerful waterfall in Iceland.",
+      "imageUrl": "https://images.unsplash.com/photo-1687289467223-cef4b1d72384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpY2VsYW5kJTIwd2F0ZXJmYWxsfGVufDB8fHx8MTc1OTEzMzc1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iceland waterfall"
+    },
+    {
+      "id": "dest-newzealand",
+      "description": "A scenic lake in New Zealand.",
+      "imageUrl": "https://images.unsplash.com/photo-1693869359777-ab0b97d1bb80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXd6ZWFsYW5kJTIwbGFrZXxlbnwwfHx8fDE3NTkxMzg2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "newzealand lake"
+    },
+    {
+      "id": "dest-peru",
+      "description": "Machu Picchu in Peru.",
+      "imageUrl": "https://images.unsplash.com/photo-1694362858312-9a36faef1921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJ1JTIwbWFjaHVwaWNjaHV8ZW58MHx8fHwxNzU5MTM4NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "peru machupicchu"
+    },
+    {
+      "id": "dest-thailand",
+      "description": "Longtail boats on a beach in Thailand.",
+      "imageUrl": "https://images.unsplash.com/photo-1633515646917-b46c943501f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aGFpbGFuZCUyMGJlYWNofGVufDB8fHx8MTc1OTEzODY3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thailand beach"
+    },
+    {
+      "id": "dest-morocco",
+      "description": "A bustling souk in Marrakech, Morocco.",
+      "imageUrl": "https://images.unsplash.com/photo-1675266410981-b35e1c2c0282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb3JvY2NvJTIwbWFya2V0fGVufDB8fHx8MTc1OTEzODY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "morocco market"
+    },
+    {
+      "id": "dest-costarica",
+      "description": "A hanging bridge in the Costa Rican jungle.",
+      "imageUrl": "https://images.unsplash.com/photo-1622737989894-2f80bdd1c2a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb3N0YXJpY2ElMjBqdW5nbGV8ZW58MHx8fHwxNzU5MTM4NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "costarica jungle"
+    },
+    {
+      "id": "dest-egypt",
+      "description": "The pyramids of Giza in Egypt.",
+      "imageUrl": "https://images.unsplash.com/photo-1675589291893-eeefa8f2b7a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWd5cHQlMjBweXJhbWlkc3xlbnwwfHx8fDE3NTkxMjE3ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "egypt pyramids"
+    },
+    {
+      "id": "offer-europe",
+      "description": "A charming European city street.",
+      "imageUrl": "https://images.unsplash.com/photo-1534409574970-1447ca9fb754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxldXJvcGUlMjBzdHJlZXR8ZW58MHx8fHwxNzU5MTM4NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "europe street"
+    },
+    {
+      "id": "offer-asia",
+      "description": "Floating markets in Southeast Asia.",
+      "imageUrl": "https://images.unsplash.com/photo-1680711211921-1b5ba9a25fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhc2lhJTIwbWFya2V0fGVufDB8fHx8MTc1OTEzODY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "asia market"
+    },
+    {
+      "id": "offer-islands",
+      "description": "A tropical beach with clear water.",
+      "imageUrl": "https://images.unsplash.com/photo-1571043281665-9debfed10719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHx8fDE3NTkwNjYxODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tropical beach"
+    },
+    {
+      "id": "offer-adventure",
+      "description": "A person hiking on a mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1574616054483-24b4a33a3bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb3VudGFpbiUyMGhpa2luZ3xlbnwwfHx8fDE3NTkwNTAyOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain hiking"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Portrait of a young woman smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053908-4793c484d06f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1OTA2NDc1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of a young man with glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkwNzk5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Portrait of a person hiking.",
+      "imageUrl": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc1OTEyNDY1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Portrait of a smiling woman in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1520466809213-7b9a56adcd45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGNpdHl8ZW58MHx8fHwxNzU5MDYwMzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman city"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Default user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1521146764736-56c929d59c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc1OTA0Mzc5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    }
+  ]
 }
