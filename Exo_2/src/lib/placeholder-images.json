@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dev",
+      "description": "Abstract code on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1556792189-55769c8dfbac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwZGV2ZWxvcG1lbnR8ZW58MHx8fHwxNzYxMDg4NjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code development"
+    },
+    {
+      "id": "data",
+      "description": "Abstract data visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NjA5Nzk2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "network",
+      "description": "Network servers in a rack",
+      "imageUrl": "https://images.unsplash.com/photo-1711721399281-02806b65d91b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZXJ2ZXIlMjBuZXR3b3JrfGVufDB8fHx8MTc2MDk5MjgwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "server network"
+    },
+    {
+      "id": "cloud",
+      "description": "Cloud computing concept art",
+      "imageUrl": "https://images.unsplash.com/photo-1667984390553-7f439e6ae401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbG91ZCUyMGNvbXB1dGluZ3xlbnwwfHx8fDE3NjEwODE1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud computing"
+    },
+    {
+      "id": "cyber",
+      "description": "Cybersecurity lock icon",
+      "imageUrl": "https://images.unsplash.com/photo-1620825937374-87fc7d6bddc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjeWJlciUyMHNlY3VyaXR5fGVufDB8fHx8MTc2MTA4ODYwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cyber security"
+    }
+  ]
+}
